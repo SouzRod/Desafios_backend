@@ -3,7 +3,6 @@
 ### Descrição do projeto
 
 - Nível de dificuldade: Iniciante
-- Esse repositório é para aqueles que estão procurando praticar desenvolvimento backend, se você já estudou os conceitos básicos da linguagem e quer fazer alguns projetinhos conceitos para aperfeiçoar sua técnica esse é um bom começo.
 
 ### Cadastro de usuário (Sign up)
 
