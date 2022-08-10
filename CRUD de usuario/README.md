@@ -60,7 +60,7 @@
 
  
 
-### Buscar usuário
+### Buscar usuários
 
  - Chamadas para este endpoint devem retornar uma lista de usuários com os seguintes campos:
  ```
